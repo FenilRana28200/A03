@@ -41,17 +41,29 @@ PART 1: Directions on Using Webstorm.
 
 <br > Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 
-###### Branch
+###### Branch   
+The development of code that does not affect the production branch or main branch
 ###### Clone
+Copy of the repository from Github.com to local machine(Laptop)
 ###### Commit
+Commit use at the time when work is complete and ready to push to Github.com. Its note of work
 ###### Fetch
+It means download files etc to local machine without overwriting existing local code in your current branch
 ###### GIT
+Its free and open source software for version control
 ###### Github
+Its code hosting platform where multiple users can collabrate in same project
 ###### Merge
+When someone wants to have code from other branch.
 ###### Merge Conflict
+When merge branches that have competing commit.
 ###### Push
+Once code is completed and works in local machine and that time Push use to send those changes to Github.com
 ###### Pull
+When someone wants to get changes from Github.com
 ###### Remote
+Its means users can use any device to connect github from any where
 ###### Repository
+Its same as Project. It includes all files etc releted to particular project
 
 
